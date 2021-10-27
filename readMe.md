@@ -1,2 +1,2 @@
 ### 
-https://app.netlify.com/sites/wonderful-lamarr-b2c804/overview
+https://wonderful-lamarr-b2c804.netlify.app/
